@@ -6,9 +6,7 @@ Once you have deployed Focus to your environment, this user guide will take you 
 - Option 1: Start by uploading an image to the Files tab in the Teams channel and rename the image “focus.jpg.”   
 - Option 2: Start by taking a picture with the device camera in the Focus app  
 
-![Getting Started](https://interopevents.blob.core.windows.net/uploads/misc/Focus/1.png) 
-
-![Kicthen Web Cam](https://interopevents.blob.core.windows.net/uploads/misc/Focus/Deployment%20Guide/Updates/kitchen.png) 
+![Getting Started](https://interopevents.blob.core.windows.net/uploads/misc/Focus/1.png)  
 
 - For the purpose of this demo we uploaded an existing "focus.jpg" image file
 
