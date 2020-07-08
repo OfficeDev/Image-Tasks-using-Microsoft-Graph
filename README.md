@@ -1,9 +1,9 @@
 # Introduction 
-Focus is a demo application built for first line workers who rely on image as an everyday part of their job. 
+Image Tasks using Microsoft Graph, aka Focus, is a demo application built for first line workers who rely on image as an everyday part of their job. 
 
 This project demonstrates how to integrate the Focus application into Microsoft Teams and leverage a wide variety of Microsoft 365 and Azure platform capabilities. 
  
-By stitching together multiple points of extensibility into one solution, the full Focus demo exemplifies how the application uses Microsoft Teams, Microsoft Graph, Power Automate and the OXML SDK to allow image capture and action all in the same context. Cognitive services provides speech to text and image recognition to identify items within a picture, allowing users to then take Microsoft Graph and Power Automate based actions on a selection.
+By stitching together multiple points of extensibility into one solution, the Focus demo exemplifies how the application uses Microsoft Teams, Microsoft Graph, Power Automate and the OXML SDK to allow image capture and action all in the same context. Cognitive services provides speech to text and image recognition to identify items within a picture, allowing users to then take Microsoft Graph and Power Automate based actions on a selection.
 
 Focus is a demo application intended to show interoperability with Microsoft Teams and is not a production ready application.
 
